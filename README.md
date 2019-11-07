@@ -1,2 +1,2 @@
 # weavers-stretcher
-templates for academic-ing
+templates for academing
