@@ -18,3 +18,6 @@ templates to add
   - 50 min
 - lecture
 - cheatsheet
+- quiz
+- test
+- exam
