@@ -21,3 +21,5 @@ templates to add
 - quiz
 - test
 - exam
+- practice test
+- solutions
